@@ -1,0 +1,27 @@
+[
+  {
+    "image": "./images/database.svg",
+    "title": "Database",
+    "description": "Learn how to create and maintain an app’s database. This means storing and updating data to avoid duplicate entries of records. In larger programs with multiple tables of data, drawing relationships between these tables is also involved."
+  },
+  {
+    "image": "./images//entreprenuership.svg",
+    "title": "Entrepreneurship and Personal Development ",
+    "description": "Explore how you see and perceive yourself, interact with others, engage with the world, and envision your future and your possibilities."
+  },
+  {
+    "image": "./images//webtech.svg",
+    "title": "Web Technologies",
+    "description": "Handle various tools and techniques that are utilized in the process of communication between different types of devices over the internet."
+  },
+  {
+    "image": "./images//python.svg",
+    "title": "Python Programming",
+    "description": "Get your hands on python programming, you can use it for data analysis and machine learning, Web development, Automation or scripting, Software testing and prototyping etc."
+  },
+  {
+    "image": "./images//dart.svg",
+    "title": "Dart Programming",
+    "description": "Get your hands on python programming, you can use it for data analysis and machine learning, Web development, Automation or scripting, Software testing and prototyping etc."
+  }
+]
